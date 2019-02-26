@@ -5,4 +5,7 @@ https://www.adictosaltrabajo.com/2015/10/28/integracion-de-akka-con-spring-akka-
 
 TODO
 
-update to latest version.
+update to latest version. 
+
+Follow this guide:
+https://www.baeldung.com/akka-with-spring
